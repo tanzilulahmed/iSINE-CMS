@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "Breakfast",
+    "image": "https://placehold.co/100/f5f5f5/b0b0b0ff.webp",
+    "order": 1,
+    "status": "Active",
+    "hasSubcategories": true,
+    "subcategories": [2, 3],
+    "start_date": "2023-10-10"
+  }
+  
+  
+]
